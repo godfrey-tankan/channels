@@ -1,2 +1,2 @@
 # channels
-real time apps using django websockets
+real time apps using django channels & websockets
